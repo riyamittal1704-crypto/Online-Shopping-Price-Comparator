@@ -1,0 +1,125 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: #333;
+}
+
+/* Container */
+.container {
+    text-align: center;
+    padding: 40px;
+}
+
+/* Title */
+h1 {
+    color: white;
+    font-size: 36px;
+}
+
+/* Search Box */
+.search-box {
+    margin-top: 20px;
+}
+
+input {
+    padding: 12px;
+    width: 250px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+}
+
+select {
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+}
+
+button {
+    padding: 12px 20px;
+    background: #ff7a18;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #ff512f;
+    transform: scale(1.05);
+}
+
+/* Grid Layout */
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+/* Product Card */
+.card {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    width: 250px;
+    margin: 15px;
+    padding: 20px;
+    color: white;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px) scale(1.05);
+}
+
+/* Best Product Highlight */
+.best {
+    background: gold;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+/* Table Styling */
+table {
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: white;
+    color: black;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+th {
+    background: #667eea;
+    color: white;
+}
+
+td, th {
+    padding: 12px;
+}
+
+/* Loader */
+.spinner {
+    color: white;
+    font-size: 18px;
+}
+.card button {
+    background: #00c853;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+}
+
+.card button:hover {
+    background: #009624;
+}

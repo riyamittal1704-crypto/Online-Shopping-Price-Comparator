@@ -1,0 +1,44 @@
+id,name,category,price,rating,platform,link
+1,iPhone 13,Mobile,52000,4.5,Amazon,https://www.amazon.in/s?k=iphone+13
+2,iPhone 13,Mobile,51000,4.4,Flipkart,https://www.flipkart.com/search?q=iphone+13
+3,iPhone 13,Mobile,53000,4.6,Croma,https://www.croma.com/search/?text=iphone%2013
+
+4,iPhone 14,Mobile,65000,4.7,Amazon,https://www.amazon.in/s?k=iphone+14
+5,iPhone 14,Mobile,64000,4.6,Flipkart,https://www.flipkart.com/search?q=iphone+14
+6,iPhone 14,Mobile,66000,4.8,Croma,https://www.croma.com/search/?text=iphone%2014
+
+7,Samsung S23,Mobile,70000,4.7,Amazon,https://www.amazon.in/s?k=samsung+s23
+8,Samsung S23,Mobile,69000,4.6,Flipkart,https://www.flipkart.com/search?q=samsung+s23
+
+9,OnePlus 11,Mobile,60000,4.5,Amazon,https://www.amazon.in/s?k=oneplus+11
+10,OnePlus 11,Mobile,58000,4.4,Flipkart,https://www.flipkart.com/search?q=oneplus+11
+
+11,MacBook Air M1,Laptop,85000,4.8,Amazon,https://www.amazon.in/s?k=macbook+air+m1
+12,MacBook Air M1,Laptop,83000,4.7,Flipkart,https://www.flipkart.com/search?q=macbook+air+m1
+
+13,MacBook Air M2,Laptop,105000,4.9,Amazon,https://www.amazon.in/s?k=macbook+air+m2
+14,MacBook Air M2,Laptop,102000,4.8,Flipkart,https://www.flipkart.com/search?q=macbook+air+m2
+
+15,Dell XPS 13,Laptop,95000,4.7,Amazon,https://www.amazon.in/s?k=dell+xps+13
+16,Dell XPS 13,Laptop,93000,4.6,Flipkart,https://www.flipkart.com/search?q=dell+xps+13
+
+17,Boat Rockerz 450,Accessories,1500,4.2,Amazon,https://www.amazon.in/s?k=boat+rockerz+450
+18,Boat Rockerz 450,Accessories,1400,4.1,Flipkart,https://www.flipkart.com/search?q=boat+rockerz+450
+
+19,Apple AirPods Pro,Accessories,24000,4.7,Amazon,https://www.amazon.in/s?k=airpods+pro
+20,Apple AirPods Pro,Accessories,23500,4.6,Flipkart,https://www.flipkart.com/search?q=airpods+pro
+
+21,Sony WH-1000XM4,Accessories,22000,4.8,Amazon,https://www.amazon.in/s?k=sony+wh1000xm4
+22,Sony WH-1000XM4,Accessories,21000,4.7,Flipkart,https://www.flipkart.com/search?q=sony+wh1000xm4
+
+23,JBL Tune 760NC,Accessories,8000,4.5,Amazon,https://www.amazon.in/s?k=jbl+760nc
+24,JBL Tune 760NC,Accessories,7800,4.4,Flipkart,https://www.flipkart.com/search?q=jbl+760nc
+
+25,Logitech MX Master 3,Accessories,9000,4.8,Amazon,https://www.amazon.in/s?k=mx+master+3
+26,Logitech MX Master 3,Accessories,8800,4.7,Flipkart,https://www.flipkart.com/search?q=mx+master+3
+
+27,Canon EOS 1500D,Camera,38000,4.5,Amazon,https://www.amazon.in/s?k=canon+1500d
+28,Canon EOS 1500D,Camera,37000,4.4,Flipkart,https://www.flipkart.com/search?q=canon+1500d
+
+29,Nikon D3500,Camera,40000,4.6,Amazon,https://www.amazon.in/s?k=nikon+d3500
+30,Nikon D3500,Camera,39000,4.5,Flipkart,https://www.flipkart.com/search?q=nikon+d3500
